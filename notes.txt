@@ -1,0 +1,5 @@
+get all countries
+https://restcountries.com/v3.1/all
+
+search by name
+https://restcountries.com/v3.1/name/{name}
